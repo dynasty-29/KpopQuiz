@@ -16,7 +16,7 @@ const quiz = [
         answer: "San"
     },
     {
-        question: "Q. Who is not a memner of Ateez?",
+        question: "Q. Who is not a member of Ateez?",
         choices: ["Yoon San-ha", " Seong Hwa", "Min-gi", "Jeong Yun-ho"],
         answer: "Yoon San-ha"
     },
@@ -26,48 +26,48 @@ const quiz = [
         answer: "NCT"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "What is the fandom name for ATEEZ?",
+        choices: ["ARMY", "ATEEZ", "ATINY","STRAY"],
+        answer: "ATINY"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Which group is known for their energetic and powerful performances?",
+        choices: ["ASTRO", "BTS", "ATEEZ", "MONSTAX"],
+        answer: "MONSTAX"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Who is the main dancer of Stray Kids?",
+        choices: ["HYUNJIN", "HAN", "LEE KNOW", "FELIX"],
+        answer: "LEE KNOW"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "What is the fandom name for SEVENTEEN?",
+        choices: ["CARAT", "MELODY", "FOREVER", "LOVE"],
+        answer: "CARAT"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Which boy band has a member who starred in the drama \"Hwarang\"?",
+        choices: ["EXO(SUHO)", "SHINEE(MIN-HO)", "BTS(V)", "ASTRO(EUN-WOO)"],
+        answer: "BTS(V)"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Who is the leader of SHINee?",
+        choices: ["KEY","MIN-HO","ONEW","TAEMIN"],
+        answer: "ONEW"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Which boy band's fans often use the phrase \"I'm fine, thank you, and you?\" as a reference to their song lyrics?",
+        choices: ["BTS", "STRAY KIDS", "SEVENTEEN", "ASTRO"],
+        answer: "BTS"
     },
     {
-        question: "",
-        choices: [""],
-        answer: ""
+        question: "Which group's fans often use the phrase \"Legends only\" to describe their achievements and impact in the Kpop industry?",
+        choices: ["2PM", "GOT7", "BIGBANG", "SHINEE"],
+        answer: "BIGBANG"
     },
     {
-        question: "",
-        choices: [""],
+        question: "Which group is known as \"The Kings of Kpop\"?",
+        choices: ["BIGBANG", "BTS", "ATEEZ", "2PM"],
         answer: ""
     }
 ]
