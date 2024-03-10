@@ -5,7 +5,7 @@ Hey fellow Kpop enthusiasts! Welcome to the ultimate Kpop Boy Bands Quiz App rep
 
 ## Video Preview 📽️
 
-[![Kpop Boy Bands Quiz App Preview](C:\Users\Dell\Desktop\KpopIQ\KpopQuiz\kpopquiz.mp4)](C:\Users\Dell\Desktop\KpopIQ\KpopQuiz\kpopquiz.mp4)
+[![Kpop Boy Bands Quiz App Preview]](kpopquiz.mp4)
 
 Click on the image above to feast your eyes on the exhilarating preview of the Kpop Boy Bands Quiz App!
 
